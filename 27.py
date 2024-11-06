@@ -1,0 +1,6 @@
+days = ('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'fri','sat')
+print(days[0])
+print(days[1])
+print(days[2])
+print(days[-1])
+print(days[-2])
