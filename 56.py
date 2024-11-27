@@ -12,9 +12,9 @@ product1 = {
 # print( product1.get("discount") )
 # print( product1.keys() )
 # print( product1.values() )
-# product1.pop('discount') 
+# product1.pop('discount')  # delete element by key name
 # print( product1)
-# product1.popitem()
+# product1.popitem() #delete for last item
 # print( product1)
 
 product2 = product1.copy()
